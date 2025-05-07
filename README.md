@@ -7,7 +7,7 @@ Welcome to my GitHub playground, where lines of code meet creativity, and learni
 I thrive in a diverse tech stack, constantly honing my skills in:
 
 - **Languages:** Python, JavaScript, Java,Flutter,PhP
-- **Frameworks:** React, Flask, Spring Boot,dart
+- **Frameworks:** React, Flask, Spring Boot,Dart
 - **Databases:** MongoDB, Mysql
 - **Tools:** Git, VSCode, Docker,Android Studio,Intellij Idea
 
