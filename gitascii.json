@@ -11663,23 +11663,6 @@
       "zIndex": 9
     },
     {
-      "instanceId": "widget_1791750885516",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 2200
-      },
-      "size": {
-        "width": 800,
-        "height": 30
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 10
-    },
-    {
       "instanceId": "widget_1791750922323",
       "widgetId": "stats",
       "name": "Stats Widget",
@@ -11729,7 +11712,7 @@
   "templateId": "silentknight-sudo",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791751218437_pocvt",
-    "updatedAt": "2026-10-11T20:40:22.140Z"
+    "revision": "rev_1791751300704_iq9v7",
+    "updatedAt": "2026-10-11T20:41:44.960Z"
   }
 }
