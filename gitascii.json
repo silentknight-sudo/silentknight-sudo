@@ -144,29 +144,12 @@
       "zIndex": 6
     },
     {
-      "instanceId": "widget_1791750770923",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 1414
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_1791750832757",
       "widgetId": "godprofile-globe",
       "name": "Godprofile-globe Widget",
       "position": {
         "x": 0,
-        "y": 1680
+        "y": 1384
       },
       "size": {
         "width": 344,
@@ -184,8 +167,8 @@
       "widgetId": "asciiprofile-portrait",
       "name": "Asciiprofile-portrait Widget",
       "position": {
-        "x": 368,
-        "y": 1680
+        "x": 400,
+        "y": 1376
       },
       "size": {
         "width": 370,
@@ -11712,6 +11695,25 @@
       "locked": false,
       "visible": true,
       "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1791751167683",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 2278
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
     }
   ],
   "globalStyles": {
@@ -11727,7 +11729,7 @@
   "templateId": "silentknight-sudo",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791750928424_ui91f",
-    "updatedAt": "2026-10-11T20:35:31.736Z"
+    "revision": "rev_1791751174993_6erp5",
+    "updatedAt": "2026-10-11T20:39:38.583Z"
   }
 }
