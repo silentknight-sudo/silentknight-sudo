@@ -1,0 +1,263 @@
+{
+  "username": "silentknight-sudo",
+  "widgets": [
+    {
+      "instanceId": "widget_1791748932480",
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Surveillance Header"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1791748955081",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 433
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1791748968980",
+      "widgetId": "controlplane-metro",
+      "name": "Controlplane-metro Widget",
+      "position": {
+        "x": 0,
+        "y": 669
+      },
+      "size": {
+        "width": 800,
+        "height": 350
+      },
+      "config": {
+        "layoutType": "hero",
+        "accentColor": "#00A7D1"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1791748990263",
+      "widgetId": "godprofile-marquee",
+      "name": "Godprofile-marquee Widget",
+      "position": {
+        "x": 0,
+        "y": 1035
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1791748998863",
+      "widgetId": "godprofile-trophies",
+      "name": "Godprofile-trophies Widget",
+      "position": {
+        "x": 0,
+        "y": 1171
+      },
+      "size": {
+        "width": 800,
+        "height": 280
+      },
+      "config": {
+        "accentColor": "#b6a891"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1791749011296",
+      "widgetId": "asciiprofile-heatmap",
+      "name": "Asciiprofile-heatmap Widget",
+      "position": {
+        "x": 0,
+        "y": 1467
+      },
+      "size": {
+        "width": 780,
+        "height": 240
+      },
+      "config": {
+        "accentColor": "#ffa657"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1791749045098",
+      "widgetId": "premium-ascii-dev-score",
+      "name": "Premium-ascii-dev-score Widget",
+      "position": {
+        "x": 0,
+        "y": 1723
+      },
+      "size": {
+        "width": 400,
+        "height": 250
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1791749051548",
+      "widgetId": "premium-ascii-dna",
+      "name": "Premium-ascii-dna Widget",
+      "position": {
+        "x": 376,
+        "y": 1731
+      },
+      "size": {
+        "width": 400,
+        "height": 230
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "transparentBackground": true,
+        "backgroundColor": "transparent",
+        "accentColor": "#3fb950",
+        "secondaryColor": "#39c5cf",
+        "borderColor": "#30363d"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1791749074961",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 0,
+        "y": 1989
+      },
+      "size": {
+        "width": 800,
+        "height": 140
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "js",
+          "ts",
+          "css",
+          "py",
+          "kotlin",
+          "dart",
+          "bash",
+          "java",
+          "docker",
+          "c",
+          "cpp",
+          "sass",
+          "ruby",
+          "swift",
+          "php",
+          "react",
+          "flutter",
+          "flask",
+          "spring",
+          "mongodb",
+          "mysql",
+          "vscode",
+          "laravel"
+        ]
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1791749098483",
+      "widgetId": "profile-trophy",
+      "name": "Profile-trophy Widget",
+      "position": {
+        "x": 0,
+        "y": 2145
+      },
+      "size": {
+        "width": 800,
+        "height": 200
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1791749113811",
+      "widgetId": "awesome-badge",
+      "name": "Awesome-badge Widget",
+      "position": {
+        "x": 256,
+        "y": 2361
+      },
+      "size": {
+        "width": 360,
+        "height": 80
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": false
+  },
+  "templateId": "terminal",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1791749833865_z1djb",
+    "updatedAt": "2026-10-11T20:17:17.724Z"
+  }
+}
