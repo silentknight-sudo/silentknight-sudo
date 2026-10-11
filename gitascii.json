@@ -11668,7 +11668,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 2096
+        "y": 2200
       },
       "size": {
         "width": 800,
@@ -11685,7 +11685,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 2142
+        "y": 2064
       },
       "size": {
         "width": 800,
@@ -11701,8 +11701,8 @@
       "widgetId": "asciiprofile-heatmap",
       "name": "Asciiprofile-heatmap Widget",
       "position": {
-        "x": 0,
-        "y": 2278
+        "x": 10,
+        "y": 1808
       },
       "size": {
         "width": 780,
@@ -11729,7 +11729,7 @@
   "templateId": "silentknight-sudo",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791751174993_6erp5",
-    "updatedAt": "2026-10-11T20:39:38.583Z"
+    "revision": "rev_1791751218437_pocvt",
+    "updatedAt": "2026-10-11T20:40:22.140Z"
   }
 }
